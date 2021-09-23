@@ -1,0 +1,93 @@
+.top 
+{
+    background: #1268C5;
+    color: #fff;
+    font-size: 14px;
+    border-bottom:1px solid #000;
+}
+.dropdown-menu
+{
+    background: #1268C5;
+    border-radius: 0;
+    border: none;
+    padding-bottom: 0;
+}
+.dropdown:hover .dropdown-menu
+{
+    display: block;
+}
+.dropdown-item
+{
+    color: #fff;
+    border-bottom: 1px solid #000;
+}
+.top ul
+{
+    margin: 0;
+    padding: 0;
+}
+.top ul li 
+{
+    display: inline;
+    padding: 6px;
+}
+.bg-light
+{
+    background:#1268C5 !important;
+}
+.navbar-dark .navbar-nav .nav-link
+{
+    color: #fff;
+}
+.navbar-brand img 
+{
+    width: 270px;
+}
+.drk:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: black;
+    opacity: 0.6;
+    z-index: 1;
+  }
+  
+  .carousel-caption {
+    z-index: 2;
+  }
+  h2 
+  {
+      color: #1268c5;
+      font-weight: bold;
+  }
+  .wlc p 
+  {
+      font-style: italic;
+  }
+  .btn-outline-primary
+  {
+      border: 2px solid #1268c5;
+      border-radius: 20px;
+  }
+  .post 
+  {
+      background: #F5F5F5;
+      padding: 50px 0;
+  }
+  .post .card 
+  {
+      background: transparent;
+  }
+  .grey
+  {
+      background: #F5F5F5;
+  }
+  footer 
+  {
+      background: #302E31;
+      color: #fff;
+  }
